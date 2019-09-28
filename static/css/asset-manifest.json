@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c7e7106c.chunk.css",
+    "main.js": "/static/js/main.8253ec90.chunk.js",
+    "main.js.map": "/static/js/main.8253ec90.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f4891672.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f4891672.js.map",
+    "static/js/2.ff925b16.chunk.js": "/static/js/2.ff925b16.chunk.js",
+    "static/js/2.ff925b16.chunk.js.map": "/static/js/2.ff925b16.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9f22af4bb38a88e187764541de546a7d.js": "/precache-manifest.9f22af4bb38a88e187764541de546a7d.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.c7e7106c.chunk.css.map": "/static/css/main.c7e7106c.chunk.css.map",
+    "static/media/Body.css": "/static/media/main_bg04.0a57ad21.jpg",
+    "static/media/thermometer.svg": "/static/media/thermometer.f592f9a3.svg"
+  }
+}
