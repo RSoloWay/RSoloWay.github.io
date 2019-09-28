@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.e164e958.chunk.css",
-    "main.js": "/static/js/main.c0abe9c1.chunk.js",
-    "main.js.map": "/static/js/main.c0abe9c1.chunk.js.map",
+    "main.css": "/static/css/main.99d28de5.chunk.css",
+    "main.js": "/static/js/main.8253ec90.chunk.js",
+    "main.js.map": "/static/js/main.8253ec90.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f4891672.js",
     "runtime-main.js.map": "/static/js/runtime-main.f4891672.js.map",
     "static/js/2.ff925b16.chunk.js": "/static/js/2.ff925b16.chunk.js",
     "static/js/2.ff925b16.chunk.js.map": "/static/js/2.ff925b16.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e70f7c4be9ed435cb23651a81c22e317.js": "/precache-manifest.e70f7c4be9ed435cb23651a81c22e317.js",
+    "precache-manifest.95337d16ceff55c22b6d15e56279bdbd.js": "/precache-manifest.95337d16ceff55c22b6d15e56279bdbd.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.e164e958.chunk.css.map": "/static/css/main.e164e958.chunk.css.map",
-    "static/media/Body.css": "/static/media/main_bg.f6691594.jpg",
+    "static/css/main.99d28de5.chunk.css.map": "/static/css/main.99d28de5.chunk.css.map",
+    "static/media/Body.css": "/static/media/main_bg04.0a57ad21.jpg",
     "static/media/thermometer.svg": "/static/media/thermometer.f592f9a3.svg"
   }
 }
