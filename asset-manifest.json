@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.d6a8afd3.chunk.css",
+    "main.css": "/static/css/main.ad51d994.chunk.css",
     "main.js": "/static/js/main.8253ec90.chunk.js",
     "main.js.map": "/static/js/main.8253ec90.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f4891672.js",
@@ -8,9 +8,9 @@
     "static/js/2.ff925b16.chunk.js": "/static/js/2.ff925b16.chunk.js",
     "static/js/2.ff925b16.chunk.js.map": "/static/js/2.ff925b16.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.d522605930eb7f02f3239610d8b34f10.js": "/precache-manifest.d522605930eb7f02f3239610d8b34f10.js",
+    "precache-manifest.1a5de6f375fa784ba46a20255cdba591.js": "/precache-manifest.1a5de6f375fa784ba46a20255cdba591.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.d6a8afd3.chunk.css.map": "/static/css/main.d6a8afd3.chunk.css.map",
+    "static/css/main.ad51d994.chunk.css.map": "/static/css/main.ad51d994.chunk.css.map",
     "static/media/Body.css": "/static/media/main_bg04.0a57ad21.jpg",
     "static/media/thermometer.svg": "/static/media/thermometer.f592f9a3.svg"
   }
